@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jasperendlich
+- 👀 I’m interested in data-analysis mostly in Python!
+- 🌱 I’m currently learning at the TUDelft doing a MSc Engineering and Policy Analysis
+- 💞️ I’m looking for a fun and challenging job in data-analyis
+- 📫 How to reach me: jasperendlich@gmail.com 
